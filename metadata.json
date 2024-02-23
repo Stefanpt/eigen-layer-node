@@ -1,7 +1,7 @@
 {
-    "name": "<OPERATOR_NAME>",
-    "website": "<YOUR_WEBSITE>",
-    "description": "<DESCRIPTION>",
-    "logo": "https://www.example.com/logo.png",
-    "twitter": "<YOUR_TWITTER>"
+    "name": "Bull Report",
+    "website": "https://bull.report",
+    "description": "Blockchain and Cryptocurrency News",
+    "logo": "http://bull.report/wp-content/uploads/2023/10/Block-Report-Logo.png",
+    "twitter": "https://twitter.com/Bullmodo"
   }
